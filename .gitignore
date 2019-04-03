@@ -1,0 +1,4 @@
+.idea/*
+average_reading_time_predictions/data/*
+venv/*
+!average_reading_time_prediction/data/blue-cloud-hi.png
