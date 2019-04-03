@@ -19,20 +19,20 @@ Installation
 ------------
 
 All projects are tested on python 3.6 on a linux machine.
-Every project has its own README with installation instructions
+Every project has its own README with installation instructions.
 
 Contribute
 ----------
 
 - If you are interested in news analysis and have an idea for research that you want to see
-  published here, please contact engineering@twipemobile.com
+  published here, please contact engineering@twipemobile.com;
 - If you have any problems with the code, or you have some adaptations that you want to contribute,
   please create an issue or pull request and we will try to get back to you as soon as
-  possible
+  possible.
 
 Support
 -------
 
 If you are having issues, please let us know at engineering@twipemobile.com or create
-a git issue in this repository
+a git issue in this repository.
 
